@@ -1,2 +1,2 @@
-# sdev
-School Project
+# software dev
+
